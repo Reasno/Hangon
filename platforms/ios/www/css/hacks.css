@@ -10,9 +10,9 @@
 .row{
 	text-align: center;
 }
-html, body {
-  overflow-x: hidden;
+body{
+	padding-top: 70px;
 }
-body {
-  position: relative
+body.signin{
+	padding-top: 0px;
 }
