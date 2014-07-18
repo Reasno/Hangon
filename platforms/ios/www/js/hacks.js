@@ -12,6 +12,3 @@ var site = {
         $('.vc').css('margin-top', new_margin + 'px');
     }
 };
-document.ontouchstart = function(e){ 
-    e.preventDefault(); 
-}
